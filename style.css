@@ -1,10 +1,16 @@
 h1{
-  font-size: 20;
-  color:gray;
+  font-size: 25;
+  color:maroon;
   font-family:fantasy;
-  padding-left: 10%;
+  padding-left: 50%;
+
 }
 
 body {
-  background-color: #5B566F;
+  background-color: #darkgray;
+
+}
+p{
+  padding-left: 50%
+
 }
