@@ -1,4 +1,10 @@
 h1{
-  font-size: 25;
-  color:blue;
+  font-size: 20;
+  color:gray;
+  font-family:fantasy;
+  padding-left: 10%;
+}
+
+body {
+  background-color: #5B566F;
 }
